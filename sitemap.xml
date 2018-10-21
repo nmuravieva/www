@@ -5,8 +5,8 @@
     
     <url>
     
-      <loc>http://www.muraviova.ru/post/barbershops/</loc>
-      <lastmod>2017-10-26T00:00:00+03:00</lastmod>
+      <loc>http://www.muraviova.ru/project/recycling-plants/</loc>
+      <lastmod>2018-10-21T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -14,8 +14,8 @@
     
     <url>
     
-      <loc>http://www.muraviova.ru/post/complexity/</loc>
-      <lastmod>2017-10-25T00:00:00+03:00</lastmod>
+      <loc>http://www.muraviova.ru/post/barbershops/</loc>
+      <lastmod>2017-10-26T00:00:00+03:00</lastmod>
     </url>
     
   
@@ -268,6 +268,16 @@
     
     <url>
     
+      <loc>http://www.muraviova.ru/tags/2018/</loc>
+      <lastmod>2018-10-21T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://www.muraviova.ru/categories/</loc>
       <priority>0</priority>
     </url>
@@ -288,7 +298,7 @@
     <url>
     
       <loc>http://www.muraviova.ru/project/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <lastmod>2018-10-21T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -427,6 +437,16 @@
     
     <url>
     
+      <loc>http://www.muraviova.ru/tags/%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2%D0%BE%D0%B5-%D0%B8%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%D1%8F/</loc>
+      <lastmod>2018-10-21T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://www.muraviova.ru/</loc>
       <lastmod>2016-04-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -467,8 +487,8 @@
     
     <url>
     
-      <loc>http://www.muraviova.ru/tags/%D0%BE%D0%BF%D1%8B%D1%82/</loc>
-      <lastmod>2017-10-25T00:00:00+03:00</lastmod>
+      <loc>http://www.muraviova.ru/tags/%D0%BF%D0%B5%D1%80%D0%B5%D1%80%D0%B0%D0%B1%D0%BE%D0%BA%D0%B0-%D0%BC%D1%83%D1%81%D0%BE%D1%80%D0%B0/</loc>
+      <lastmod>2018-10-21T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -489,6 +509,16 @@
     
       <loc>http://www.muraviova.ru/tags/%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://www.muraviova.ru/tags/%D0%BF%D1%80%D0%BE%D0%BC%D1%8B%D1%88%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C/</loc>
+      <lastmod>2018-10-21T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
