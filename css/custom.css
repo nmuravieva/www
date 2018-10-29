@@ -1,0 +1,11 @@
+div.gallery {
+    float: right;
+    width: 100%;
+    overflow: hidden;
+}
+
+div.gallery img {
+    height: 50px;
+    margin: 10px;
+    float: left;
+}
