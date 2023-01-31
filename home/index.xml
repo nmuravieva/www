@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Маркетолог-аналитик</title>
-    <link>http://www.muraviova.ru/home/</link>
+    <link>http://nmuravieva.github.io/www/home/</link>
     <description>Recent content in Homes on Маркетолог-аналитик</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-RU</language>
-    <copyright>&amp;copy; 2017 Муравьёва Наталья</copyright>
+    <copyright>&amp;copy; 2017-2023 Муравьёва Наталья</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/home/" rel="self" type="application/rss+xml" />
+    <atom:link href="/www/home/" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
